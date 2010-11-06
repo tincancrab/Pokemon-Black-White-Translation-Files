@@ -485,9 +485,9 @@ The foe's \xf000Ă\x0001\x0000\xffferaised its attack to its max!
 \xf000Ă\x0001\x0000\xfffeis having a nightmare!
 The wild \xf000Ă\x0001\x0000\xfffeis having a nightmare!
 The foe's \xf000Ă\x0001\x0000\xfffeis having a nightmare!
-\xf000Ă\x0001\x0000\xfffeis relieving some pressure!
-The wild \xf000Ă\x0001\x0000\xfffeis relieving some pressure!
-The foe's \xf000Ă\x0001\x0000\xfffeis relieving some pressure!
+\xf000Ă\x0001\x0000\xfffeis exerting pressure!
+The wild \xf000Ă\x0001\x0000\xfffeis exerting pressure!
+The foe's \xf000Ă\x0001\x0000\xfffeis exerting pressure!
 \xf000Ă\x0001\x0000 picked up\xfffe\xf000ĉ\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 picked up\xfffe\xf000ĉ\x0001\x0001!
 The foe's \xf000Ă\x0001\x0000 picked up\xfffe\xf000ĉ\x0001\x0001!
